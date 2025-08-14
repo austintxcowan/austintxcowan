@@ -54,6 +54,6 @@ To further develop my skills I am working toward gaining a Google Certificate in
     <td>GoDaddy</td>    
     <td>As Austin's sales manager, we spent countless hours working together to perfect his messaging, strategy, and sales development. However, I think it was Austin that taught me more than anything. Austin showed me how to put hard work over everything, sell ethically, and to foster a strong culture amongst our team. He is an intuitive leader and team player - my favorite thing about Austin is how well he is able to deliver big-picture insights into any problem you're having. He single-handedly helped turn our team around one month that we were doing poorly. Culture fit, process oriented, and trustworthy with an exceptional character that will level-up your organization.</td>  <tr>
      </tr>  </tr></tbody></table></markdown-accessiblity-table>
- <p>Connect with me on LinkedIn here! <link = https://www.linkedin.com/in/austintxcowan/></p>
+ <p>Connect with me on LinkedIn here! https://www.linkedin.com/in/austintxcowan/ <link = https://www.linkedin.com/in/austintxcowan/></p>
  </article>
   </div>
