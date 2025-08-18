@@ -2,7 +2,6 @@
 <!--
 **austintxcowan/austintxcowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Austin Cowan
 <Div><p> I'm a Trusted Strategic Partner with a background in Electrical Work, Project Management and building strong customer relationships. Currently working as an Assistant Project Manager for an Electric Specialty Sub-Contractor. I have strong background in marketing, sales and project management. 
 
 To further develop my skills I am working toward gaining a Google Certificate in Project Management and my Wireman Electrician license. 
