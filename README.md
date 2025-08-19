@@ -5,6 +5,10 @@
 <Div><p> I'm a Trusted Strategic Partner with a background in Electrical Work, Project Management and building strong customer relationships. Currently working as an Assistant Project Manager for an Electric Specialty Sub-Contractor. I have strong background in marketing, sales and project management. 
 
 To further develop my skills I am working toward gaining a Google Certificate in Project Management and my Wireman Electrician license. 
+
+Click the links below to view examples of my work.
+- 
+-
  
  On a personal note, I have a wonderful wife. We enjoy backpacking across countries/states each year as our main hobby and creating pottery when back at home in Austin, TX. 
  
