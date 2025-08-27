@@ -10,6 +10,10 @@ Click the links below to view examples of my work.
 - austintxcowan.com
 - mygithub profile
 - Insert Liuk Tree? Put link Here
+
+Current Goals Include
+- Becoming an Electrical Project Manager
+- Starting a YouTube Channel
  
  On a personal note, I have a wonderful wife. We enjoy backpacking across countries/states each year as our main hobby and creating pottery when back at home in Austin, TX. 
  
