@@ -14,6 +14,11 @@ Click the links below to view examples of my work.
 Current Goals Include
 - Becoming an Electrical Project Manager
 - Starting a YouTube Channel
+- Certifications I want to get
+- Google Project Manager Certificate
+- Wireman Electrician's License
+- PMP Project Management Cert
+- Journeyman Electrician License
  
  On a personal note, I have a wonderful wife. We enjoy backpacking across countries/states each year as our main hobby and creating pottery when back at home in Austin, TX. 
  
