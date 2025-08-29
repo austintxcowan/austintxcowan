@@ -17,7 +17,7 @@ Current Goals Include
 - Certifications I want to get
 - Google Project Manager Certificate
 - Wireman Electrician's License
-- PMP Project Management Cert
+- PMP Project Management Cert: Both Professional and Associate
 - Journeyman Electrician License
  
  On a personal note, I have a wonderful wife. We enjoy backpacking across countries/states each year as our main hobby and creating pottery when back at home in Austin, TX. 
