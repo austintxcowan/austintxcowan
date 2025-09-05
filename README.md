@@ -3,7 +3,14 @@
 **austintxcowan/austintxcowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-should i continue working on this? May need a new goal here
+should i continue working on this? May need a new goal here.
+
+To-do
+inspect progress -- this appears to be going away over time. idk why. 
+
+9/5/2025
+<img width="946" height="226" alt="image" src="https://github.com/user-attachments/assets/a95c7fc0-b794-401f-84c2-4e4f936b8aa9" />
+
 
 <Div><p> I'm a Trusted Strategic Partner with a background in Electrical Work, Project Management and building strong customer relationships. Currently working as an Assistant Project Manager for an Electric Specialty Sub-Contractor. I have strong background in marketing, sales and project management. 
 
