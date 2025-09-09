@@ -6,7 +6,8 @@
 should i continue working on this? May need a new goal here.
 
 To-do
-inspect progress -- this appears to be going away over time. idk why. 
+inspect progress -- this appears to be going away over time. idk why. see what is going on with progress
+
 
 9/5/2025
 <img width="946" height="226" alt="image" src="https://github.com/user-attachments/assets/a95c7fc0-b794-401f-84c2-4e4f936b8aa9" />
